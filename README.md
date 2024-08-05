@@ -1,5 +1,6 @@
 # Clack Game
 
+![](https://github.com/user-attachments/assets/c1f21b1b-dcf9-4ec3-960a-203a002f1e6f)
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Development
