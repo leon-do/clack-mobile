@@ -2,6 +2,12 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+![Screenshot 2024-08-05 at 12 34 55 PM](https://github.com/user-attachments/assets/e5d6ebd9-9dc5-46e1-982e-4a4909722060)
+
+![Screenshot 2024-08-05 at 12 35 29 PM](https://github.com/user-attachments/assets/cb114f7f-8128-4d77-97f5-c82397ad5c2a)
+
+![Screenshot 2024-08-05 at 12 35 38 PM](https://github.com/user-attachments/assets/6bf87193-a89c-40bb-850d-23367fd3f30b)
+
 ## Development
 
 Initial install
